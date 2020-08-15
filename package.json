@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pmscad/NoteTaker.git"
+    "url": "https://github.com/0hWellJoel/NoteTaker.git"
   },
   "bugs": {
-    "url": "https://github.com/pmscad/NoteTaker/issues"
+    "url": "https://github.com/0hWellJoel/NoteTaker/issues"
   },
-  "homepage": "https://github.com/pmscad/NoteTaker#readme",
+  "homepage": "https://github.com/0hWellJoel/NoteTaker#readme",
   "devDependencies": {}
 }
